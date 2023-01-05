@@ -1,0 +1,2 @@
+/tree/downloaded_tools/pico/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/CMakeFiles/rebuild_cache.dir
+/tree/downloaded_tools/pico/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/CMakeFiles/edit_cache.dir
